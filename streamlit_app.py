@@ -44,7 +44,7 @@ st.markdown(
         iframe {display: block;}
         section[data-testid="stSidebar"] {display: none;}
         .stApp {background: #060a16;}
-    </style>s
+    </style>
     """,
     unsafe_allow_html=True,
 )
