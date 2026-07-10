@@ -24,7 +24,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 APP_DIR = Path(__file__).parent
-HTML_PATH = APP_DIR / "app_combined.html"
+HTML_PATH = APP_DIR / "index.html"
 
 st.set_page_config(
     page_title="SENTRY — Crime Risk Analysis & Safe Travel",
